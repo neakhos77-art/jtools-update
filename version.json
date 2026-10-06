@@ -1,6 +1,6 @@
 {
-  "latest_version": "2.0",
-  "download_url": "",
-  "force_update": false,
-  "changelog": "Initial release"
+  "latest_version": "2.2.2",
+  "download_url": "https://github.com/neakhos77-art/jtools-update/releases/download/v2.1/J-Tools.V2.2.2-Pro.exe",
+  "force_update": true,
+  "changelog": "- ជួសជុលបញ្ហាគាំងសំឡេងពេលដំណើរការយូរ\n- បន្ថែមមុខងារ Auto-Update ទាញយកស្វ័យប្រវត្តិ"
 }
