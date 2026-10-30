@@ -1,0 +1,9 @@
+{
+    "version": "3.0.0",
+    "release_date": "2026-10-30",
+    "changelog": "🚀 កំណែប្រែដំបូង V3.0 (Turbo 16x Speed + Auto Desktop Shortcut)",
+    "files": {
+        "main.py": "https://raw.githubusercontent.com/neakhos77-art/jtools-update/main/main.py",
+        "downloader.py": "https://raw.githubusercontent.com/neakhos77-art/jtools-update/main/downloader.py"
+    }
+}
